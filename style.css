@@ -55,7 +55,7 @@ header{
 }
 
 .invitation{
-  background-color: #71370e;
+  /* background-color: #71370e; */
   display: flex;
   flex-direction: column;
   justify-content: space-around;
